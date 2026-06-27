@@ -6,16 +6,24 @@ Automatically reads your attendance cards and shows:
 
 ---
 
-## Installation
+## Downloading & Installing from GitHub
+### Windows
 
-1. Open Chrome and go to `chrome://extensions/`
-2. Turn on **Developer mode** (toggle, top right)
-3. Click **Load unpacked**
-4. Select this folder (`attendance-extension/`)
-5. Navigate to your Christ University attendance portal
-6. The panel appears bottom-right automatically ✅
+Click the green Code button on this page → Download ZIP
+Right-click the downloaded ZIP → Extract All
+Open Chrome and go to chrome://extensions/
+Enable Developer mode (toggle, top-right)
+Click Load unpacked → select the extracted folder
+Done! Open the ESPro portal and go to Course Overview
 
----
+### Mac
+
+Click the green Code button on this page → Download ZIP
+Double-click the downloaded ZIP to extract it (goes to your Downloads folder)
+Open Chrome and go to chrome://extensions/
+Enable Developer mode (toggle, top-right)
+Click Load unpacked → select the extracted folder
+Done! Open the ESPro portal and go to Course Overview
 
 ## How it works
 
